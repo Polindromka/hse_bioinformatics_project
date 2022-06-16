@@ -12,6 +12,7 @@
 Поморцев	Леонид	|ВШБ|	2|	Betaproteobacteria|	Pandoraea
 Попов	Игорь	|ФКН|	2	|Betaproteobacteria|	Bordetella
 Космачев	Алексей|	МИЭМ|	2	|Betaproteobacteria	|Acidovorax
+Антонников 	Григорий|	ВШБ	|1|	Betaproteobacteria|	Сupriavidus, Bordetella
 ## Сводная таблица
 Название кластера | Кол-во генов | Кол-во родов | Кол-во генов, у которых есть z-dna в промотере | Максимальный zhunt score | Средний zhunt score |
 |---|---|---|---|---|---
