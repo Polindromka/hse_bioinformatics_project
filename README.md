@@ -972,8 +972,9 @@
 ||34|33|1|650.92|650.92|
 
 ## Heatmap
+![heatmap](https://user-images.githubusercontent.com/59918228/174063753-1d98552b-611c-4496-a6fe-9b328f50dda2.png)
 
-![heatmap](https://user-images.githubusercontent.com/59918228/174029018-1fff9c99-51c4-4c9f-89d2-6c20b6f97a36.png)
+
 
 ## Clusters
 
