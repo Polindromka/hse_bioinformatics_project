@@ -1,0 +1,50 @@
+Neisseria animalis
+Neisseria animaloris
+Neisseria bacilliformis
+Neisseria brasiliensis
+Neisseria canis
+Herbaspirillum hiltneri N3
+Herbaspirillum huttiense
+Herbaspirillum robiniae
+Herbaspirillum rubrisubalbicans M1
+Herbaspirillum seropedicae
+Massilia albidiflava
+Massilia armeniaca
+Massilia flava
+Massilia plicata
+Massilia putida
+Comamonas aquatica
+Comamonas kerstersii
+Comamonas koreensis
+Comamonas odontotermitis
+Comamonas serinivorans
+Paraburkholderia acidiphila
+Paraburkholderia acidisoli
+Paraburkholderia aromaticivorans
+Paraburkholderia atlantica
+Paraburkholderia caffeinilytica
+Rhodoferax antarcticus
+Rhodoferax ferrireducens T118
+Rhodoferax koreense
+Rhodoferax saidenbachensis
+Rhodoferax sediminis
+Pandoraea apista
+Pandoraea faecigallinarum
+Pandoraea fibrosis
+Pandoraea norimbergensis
+Pandoraea oxalativorans
+Bordetella avium 197N
+Bordetella bronchialis
+Bordetella bronchiseptica
+Bordetella flabilis
+Bordetella hinzii
+Acidovorax antarcticus
+Acidovorax avenae subsp. avenae ATCC 19860
+Acidovorax carolinensis
+Acidovorax citrulli
+Acidovorax monticola
+Polynucleobacter asymbioticus QLW-P1DMWA-1
+Polynucleobacter difficilis
+Polynucleobacter duraquae
+Polynucleobacter necessarius
+Polynucleobacter paneuropaeus
