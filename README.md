@@ -1,5 +1,9 @@
 # hse_bioinformatics_project
 
+## Ссылка на колаб
+```
+https://colab.research.google.com/drive/1RvTO_LC13N4MDVttYmIaI39VBFaTSFgg?usp=sharing
+```
 ## Участники
 ФИО |Факультет |Группа |ВИД| Род|
 |---|---|---|---|---
