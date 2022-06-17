@@ -38,6 +38,9 @@ https://colab.research.google.com/drive/1RvTO_LC13N4MDVttYmIaI39VBFaTSFgg?usp=sh
 #### MULTISPECIES: 30S ribosomal protein S21
 
 ![изображение](https://user-images.githubusercontent.com/59918228/174325433-e6564148-596b-4fb1-bd1b-035e4d1f01c0.png)
+#### glutamine-hydrolyzing GMP synthase
+![изображение](https://user-images.githubusercontent.com/59918228/174326634-d3beb52d-4589-4e2b-bc20-7da330b46e76.png)
+
 
 
 
