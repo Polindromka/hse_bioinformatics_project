@@ -50,7 +50,7 @@ https://colab.research.google.com/drive/1RvTO_LC13N4MDVttYmIaI39VBFaTSFgg?usp=sh
 #### glutamine-hydrolyzing GMP synthase
 ![изображение](alignments/nucleotide_cluster_2.png)
 #### transcription antitermination factor NusB
-![изображение](alignments/nucleotide_cluster_3.png)
+![изображение](alignments/nucleotide_cluster_3_.png)
 
 
 
