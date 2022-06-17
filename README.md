@@ -23,11 +23,10 @@
 
 
 ## Clusters
-![cluster_0](https://user-images.githubusercontent.com/59918228/174065350-1f58d89a-f625-4070-b01f-5908e15cbb49.png)
-![cluster_2](https://user-images.githubusercontent.com/59918228/174065357-799f527d-1abc-4c0b-b833-d798c172bc1a.png)
-![cluster_5](https://user-images.githubusercontent.com/59918228/174065336-81661ff3-b592-4784-b153-8eb9c437d626.png)
-![cluster_8](https://user-images.githubusercontent.com/59918228/174065345-fe9b0ecd-5c7f-441d-8894-1d5364c7f81c.png)
-![cluster_9png](https://user-images.githubusercontent.com/59918228/174065348-16d7cab1-e28b-4e23-b36c-24b3156019e9.png)
+![cluster_GMP](https://user-images.githubusercontent.com/59918228/174321407-8c72667f-1e30-40aa-91b4-b93c3ebc33a3.png)
+![cluster_NusB](https://user-images.githubusercontent.com/59918228/174321418-dafc5b0f-ad08-42ef-9e01-52afb3822690.png)
+
+![cluster_30s](https://user-images.githubusercontent.com/59918228/174321399-b06a917f-b135-402d-abc3-c919cc57e61f.png)
 
 
 
