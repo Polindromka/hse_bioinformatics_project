@@ -17,7 +17,8 @@
 ![Сводная таблица](https://github.com/Polindromka/hse_bioinformatics_project/blob/main/result.csv)
 ## Heatmap
 
-![heatmap](https://user-images.githubusercontent.com/59918228/174296310-6d2d403f-175d-45dd-80d8-9898347cfb35.png)
+![heatmap](https://user-images.githubusercontent.com/59918228/174296780-49dc67b2-5999-4a30-a194-39c50f5f2dd5.png)
+
 
 
 
