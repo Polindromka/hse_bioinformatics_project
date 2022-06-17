@@ -41,7 +41,7 @@ https://colab.research.google.com/drive/1RvTO_LC13N4MDVttYmIaI39VBFaTSFgg?usp=sh
 #### glutamine-hydrolyzing GMP synthase
 ![изображение](alignments/amino_cluster_2.png)
 #### transcription antitermination factor NusB
-![изображение](alignments/amino_cluster_3_.png)
+![изображение](alignments/amino_cluster_3.png)
 
 ### Нуклеотидное (Z-ДНК)
 #### MULTISPECIES: 30S ribosomal protein S21
